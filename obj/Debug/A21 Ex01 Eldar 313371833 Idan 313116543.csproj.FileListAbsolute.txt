@@ -1,0 +1,34 @@
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\bin\Debug\B20 Ex01 Eldar 313371833 Idan 313116543.exe.config
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\bin\Debug\B20 Ex01 Eldar 313371833 Idan 313116543.exe
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\bin\Debug\B20 Ex01 Eldar 313371833 Idan 313116543.pdb
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\bin\Debug\Facebook.dll
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\A21 Ex01 Eldar 313371833 Idan 313116543.csprojAssemblyReference.cache
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.ChooseGroupForm.resources
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.Find_Stalker_Feature.Forms.FilterOptionsForm.resources
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.Find_Stalker_Feature.Forms.FoundSoulmateForm.resources
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.GroupPopularityForm.resources
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.LoginForm.resources
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.WelcomeForm.resources
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.Properties.Resources.resources
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\A21 Ex01 Eldar 313371833 Idan 313116543.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\A21 Ex01 Eldar 313371833 Idan 313116543.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\A21 Ex01 Eldar 313371833 Idan 313116543.csproj.CopyComplete
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\B20 Ex01 Eldar 313371833 Idan 313116543.exe
+C:\Users\WINDOWS 10\Downloads\A21 Ex02 Eldar 313371833 Idan 313116543\A21 Ex02 EldarAharonson 313371833 Idan Buminovich 313116543\obj\Debug\B20 Ex01 Eldar 313371833 Idan 313116543.pdb
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\bin\Debug\B20 Ex01 Eldar 313371833 Idan 313116543.exe.config
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\bin\Debug\B20 Ex01 Eldar 313371833 Idan 313116543.exe
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\bin\Debug\B20 Ex01 Eldar 313371833 Idan 313116543.pdb
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\A21 Ex01 Eldar 313371833 Idan 313116543.csprojAssemblyReference.cache
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.ChooseGroupForm.resources
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.Find_Stalker_Feature.Forms.FilterOptionsForm.resources
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.Find_Stalker_Feature.Forms.FoundSoulmateForm.resources
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.GroupPopularityForm.resources
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.LoginForm.resources
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.WelcomeForm.resources
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\B20_Ex01_Eldar_313371833_Idan_313116543.Properties.Resources.resources
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\A21 Ex01 Eldar 313371833 Idan 313116543.csproj.GenerateResource.cache
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\A21 Ex01 Eldar 313371833 Idan 313116543.csproj.CoreCompileInputs.cache
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\A21 Ex01 Eldar 313371833 Idan 313116543.csproj.CopyComplete
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\B20 Ex01 Eldar 313371833 Idan 313116543.exe
+C:\Users\Eldar\Documents\IDC\Job Search\Projects to Show\Facebook App\obj\Debug\B20 Ex01 Eldar 313371833 Idan 313116543.pdb
